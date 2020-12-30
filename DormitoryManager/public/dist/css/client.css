@@ -1,0 +1,10 @@
+body {
+    background-image: url('../../assests/img/bg.webp') !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+.login-card-body {
+    border-radius: 20px !important;
+}

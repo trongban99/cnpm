@@ -1,0 +1,178 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+}
+.topnav a:hover {
+    border-bottom: 3px solid red;
+}
+
+.navbar {
+    width: 615px;
+    height: 53px;
+    margin-left: 225px;
+    margin-top: 30px;
+}
+
+.carousel-item img {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-tab {
+    width: 100%;
+    height: 155px;
+    background-color: #f0f0f0;
+}
+
+.box-images {
+    width: 300px;
+    height: 300px;
+    background-color: #00b44e;
+}
+
+.featurePane {
+    margin-top: 100px;
+    width: 100%;
+    height: 555px;
+    background-color: #c12525;
+}
+
+.feature-tab i {
+    font-size: 75px;
+    display: block;
+    font-weight: 700;
+}
+
+.feature-tab a {
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    display: block;
+    text-transform: uppercase;
+}
+
+.feature-tab {
+    color: white;
+    text-align: center;
+}
+
+.box-hover:hover {
+    background-color: #b72626;
+}
+
+.faq-tab {
+    width: 100%;
+    height: 500px;
+    background-color: #f0f0f0;
+}
+
+.faqbody {
+    background: #fafafa;
+    padding: 10px;
+}
+
+.faq-header i {
+    margin-right: 10px;
+}
+
+.faq-content {
+    background: #fafafa;
+    padding: 20px;
+    display: none;
+}
+
+.faq-header {
+    cursor: pointer;
+    display: block;
+    background: #f0f0f0;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+}
+.dropdown-toggle {
+    cursor: pointer;
+    display: block;
+    background: #f0f0f0;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+    width: 322px;
+    height: 50px;
+}
+
+.dropdown-menu {
+    width: 322px;
+    background: #fafafa;
+}
+
+.faqbody h3 {
+    margin: 10px 0 0;
+    display: block;
+    font-size: 20px;
+}
+
+.question-answer {
+    padding-top: 20px;
+}
+
+.btn {
+    text-align: left;
+}
+
+.bg-warning {
+    background-color: #21d192 !important;
+}
+
+.footer-copyright {
+    background-color: #bdbfc1;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.carousel-inner {
+    height: 635px;
+}
+
+.carousel-item {
+    height: 635px;
+}
+
+.carousel-item {
+    width: 100%;
+    height: 100%;
+}
+
+.contentPane {
+    width: 100%;
+}
+
+.header img {
+    padding-top: 10px;
+}
+
+.btn-outline-success {
+    width: 80px;
+    height: 40px;
+    text-align: center;
+}
+
+.info ul li {
+    list-style: none;
+    padding: 5px 0px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.8em;
+    letter-spacing: 0.6px;
+}
+
+.info ul li a {
+    color: #212529;
+}
+
+
+.working-time{
+    width: 250px;
+}
+
